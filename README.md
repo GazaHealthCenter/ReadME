@@ -1,5 +1,7 @@
 Gaza Health Center
+
 About Us
+
 We are a dedicated team working on the Gaza Health Center (GHC) project, a digital healthcare platform designed to provide medical assistance in Gaza. Due to the ongoing humanitarian crisis, access to healthcare services has become extremely challenging. Our mission is to develop an online health center that offers medical consultations, mental health support, and essential healthcare resources for the people of Gaza.
 
 Team Members
